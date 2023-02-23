@@ -1,5 +1,5 @@
 ##  Abduhamid Botirov | JavaScript developer
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer;I'm+a+VUE+JS+Developer;I'm+a+Angular+JS+Developer;I'm+a+Laravel+Developer)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer;I'm+a+Backend+Developer;I'm+a+eJS+JS+Developer;I'm+a+PhP+Developer)
 
 
 
