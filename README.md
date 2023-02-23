@@ -1,4 +1,4 @@
-##  Mukhriddin Khodiev | JavaScript developer
+##  Abduhamid Botirov | JavaScript developer
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer;I'm+a+VUE+JS+Developer;I'm+a+Angular+JS+Developer;I'm+a+Laravel+Developer)
 
 
@@ -7,10 +7,9 @@
 
 ### Follow Me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/mukhriddinweb)
-[![Youtube](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/c/MUKHRIDDINKHODIEV)
-[![Facebook](https://img.shields.io/badge/-Facebook-082032?style=for-the-badge&logo=Facebook&logoColor=#1877F2)](https://www.facebook.com/mukhriddinweb)
-[![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/mukhriddin_dev)
+[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/AbduhamidBotirov)
+[![Facebook](https://img.shields.io/badge/-Facebook-082032?style=for-the-badge&logo=Facebook&logoColor=#1877F2)](https://www.facebook.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-082032?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2)](https://www.twitter.com/#)
 <!--   GitHub stats graph -->
@@ -21,8 +20,8 @@
 
 ### Contact With Me
 
-![emailto:khodievm@gmail.com](https://img.shields.io/badge/-khodievm@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
-[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/mukhriddinwebs)
+![emailto:abduhamidbotirovweb](https://img.shields.io/badge/-abduhamidbotirovweb@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
+[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/AbduhamidBotirov)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhriddin-dev&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
@@ -36,5 +35,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mukhriddin-dev/count.svg" />
+  <img src="https://profile-counter.glitch.me/abduhamidwebs/count.svg" />
 </p>
