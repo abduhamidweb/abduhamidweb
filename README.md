@@ -1,4 +1,4 @@
-<!--  ### Hi 👋, I'm Abduhamid Botirov 👋
+ ### Hi 👋, I'm Abduhamid Botirov 👋
 
 - 🔭 I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, Material UI, Redux, RESTAPI, NodeJs, Express, Mongodb and MYSQL 
 - 🌱 I’m currently learning NodeJs and Express
@@ -45,4 +45,4 @@
 
 
  
- -->
+
