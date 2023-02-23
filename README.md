@@ -20,7 +20,7 @@
 ### Connect with me:
 <p align="left">
 <a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gorkcoder484" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/abduhamiweb/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gorkcoder484" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gorkcoder484" height="30" width="40" /></a>
 </p>
  
  
