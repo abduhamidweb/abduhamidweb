@@ -1,4 +1,4 @@
-<!--  ### Hi 👋, I'm Abduhamid Botirov 👋
+ ### Hi 👋, I'm Abduhamid Botirov 👋
 
 - 🔭 I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, Material UI, Redux, RESTAPI, NodeJs, Express, Mongodb and MYSQL 
 - 🌱 I’m currently learning NodeJs and Express
@@ -42,14 +42,14 @@
 ### Example of Work :
 <img src ="https://user-images.githubusercontent.com/67497228/170875693-ddaae788-f1c2-4b30-bfa2-bd97755a4805.gif"  />
 
- -->
+ 
  
 
 
 <!-- Managing your profile README -->
 <!-- https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme -->
 
-![Welcome!](86T4GWHN.gif)
+<!-- ![Welcome!](86T4GWHN.gif)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firdavsDev&theme=github_dark" alt="info">
 
@@ -100,6 +100,6 @@
 GitMemory: https://gitmemory.com/firdavsDev
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
-
+ -->
 
 
