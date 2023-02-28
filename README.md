@@ -41,6 +41,9 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abduhamidweb&theme=github_dark" alt="info">
 <br />
 <br />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
+<br />
+<br />
 ### Example of Work :
 <img src ="https://user-images.githubusercontent.com/67497228/170875693-ddaae788-f1c2-4b30-bfa2-bd97755a4805.gif"  />
 
