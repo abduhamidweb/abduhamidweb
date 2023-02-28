@@ -38,7 +38,9 @@
 
 <br />
 <br />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abduhamidweb&theme=github_dark" alt="info">
+<br />
+<br />
 ### Example of Work :
 <img src ="https://user-images.githubusercontent.com/67497228/170875693-ddaae788-f1c2-4b30-bfa2-bd97755a4805.gif"  />
 
@@ -51,7 +53,7 @@
 
 <!-- ![Welcome!](86T4GWHN.gif)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firdavsDev&theme=github_dark" alt="info">
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firdavsDev&theme=github_dark&show_icons=true)](https://github.com/firdavsDev/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FirdavsDev&theme=github_dark&layout=compact)](https://wakatime.com/@FirdavsDev)
 
