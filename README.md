@@ -8,6 +8,8 @@
 - 😄 Pronouns: ... YES
 - ⚡ Fun fact: ... I am Funny and I love to Code
 
+## I'm a full-stack developer with expertise in frontend technologies such as HTML, CSS, SCSS, Tailwind CSS, Bootstrap, MDB, Material-UI, JavaScript, jQuery, TypeScript, React, and Redux/toolkit. On the backend, I'm proficient in Node.js, REST API, Express.js, Postgres, GraphQL, and Redis. My main goal is to solve problems using my coding skills and methodologies, while continuously learning new and complex technologies to improve my craft.
+
 
 ![](https://github-readme-stats.vercel.app/api?username=abduhamidweb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abduhamidweb&theme=radical&hide_border=false)<br/>
