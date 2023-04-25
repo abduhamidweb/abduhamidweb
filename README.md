@@ -25,7 +25,7 @@
 <img src="https://github.com/abduhamidweb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abduhamidweb&layout=compact&langs_count=10&theme=react) 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abduhamidweb&theme=react) 
+<!--  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abduhamidweb&theme=react)  -->
 
 --- 
 
