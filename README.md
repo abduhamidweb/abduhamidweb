@@ -24,8 +24,8 @@
 <img src="https://github.com/abduhamidweb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/abduhamidweb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react) -->
-<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=getlost01&theme=react) -->
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abduhamidweb&layout=compact&langs_count=10&theme=react) 
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abduhamidweb&theme=react) 
 
 --- 
 
@@ -102,7 +102,7 @@
 
 <!--START_SECTION:waka-simple-->
 
-```text
+text
 From: 24 January 2023 - To: 23 April 2023
 
 Total Time: 124 hrs 40 mins
@@ -112,7 +112,7 @@ TypeScript   15 hrs 21 mins  ███░░░░░░░░░░░░░░
 JSON         2 hrs 28 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 CSS          1 hr 55 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 Markdown     1 hr 31 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-```
+
 
 <!--END_SECTION:waka-simple-->
 
