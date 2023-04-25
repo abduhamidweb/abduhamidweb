@@ -1,6 +1,78 @@
- ### Hi 👋, I'm Abduhamid Botirov 👋
+Botirov Abduhamid                     	Tashkent, Uzbekistan
++998 (99) 786 70 75 | abduhamidbotirovweb@gmail.com | https://t.me/AbduhamidBotirov | https://github.com/abduhamidbotirovweb| https://www.linkedin.com/in/abduhamid-botirov-91a44b253/
+EXPERIENCE
+Temporarily unemployed
+EDUCATION
+It Park
+Sirdaryo, Uzbekistan — Full Stack development
+	July unemployedrch 2021  
+Najot Ta’li
+Tashkent, Uzbekistan — Full Stack development	July 2022 -Present
+Albison
+Tashkent, Uzbekistan — Frontend	2022 August – November 2022
+
+CERTIFICATES
+Uzbekcoders — LINK
+Udemy — LINK    
+
+LANGUAGES
+English — B1 || Uzbek — Native Speaker
+BEST PROJECTS
+Telegram bot(2022)—LINK
+● Built a Telegram bot using Node.js and the Telegram Bot API to provide users with search functionality for YouTube videos, retrieval of GitHub                                          repositories, and daily prayer times for specific locations.
+● Integrated the YouTube Data API to enable search and retrieval of videos, and the GitHub REST API to retrieve user repositories.
+● Utilized MongoDB to store user data and preferences, improving user experience by allowing personalized recommendations and settings.
+● Deployed the bot on Render.com, allowing access to a wider audience and enabling continuous integration and deployment using Git.
+● To learn more about my project, visit my GitHub profile.
+Agency app—LINK
+● I used React.js, Material-UI, SCSS, Bootstrap, and Font Awesome libraries to create the Food Order.
+● By creating an application that includes UI/UX, responsive design and SEO optimization allows users to review the features of my products.
+● To learn more about my project, visit my GitHub profile.
+Food Order app—LINK
+● I used React.js, Material-UI, SCSS, Bootstrap, and Font Awesome libraries to create the Food Order.
+● By creating an application that includes UI/UX, responsive design and SEO optimization allows users to review the features of my products.
+● To learn more about my project, visit my Github profile.
+Youtube app—LINK
+● I used youtube API for this application.
+● This program mainly focuses on sidebar and html structure.
+● Basically, you can see the news first in this program.
+● This project will help you make the book faster.
+● To learn more about my project, visit my Github profile.
+
+
+PROJECTS
+Country app—Link
+● I used React.js, Material-UI, SCSS, Bootstrap, and Font Awesome libraries to create the Country app. 
+● The web app you'll need on your travels. 
+●This web application includes API, language, dark mode, pagination, loading etc.
+● To learn more about my project, visit my Github profile.
+
+Admin dashboard app—Link
+● I used React.js, SCSS, Bootstrap and Font Awesome libraries to create the Admin dashboard.
+● It will help you create a powerful and modern system for developing my own products.
+● By creating an application that includes UI/UX, responsive design and SEO optimization allows users to review the features of my products.
+● To learn more about my project, visit my Github profile
+Calculator React app—LINK
+● The project is mainly composed of React. React libraries consist of Material Ui Bootstrap and several small libraries. 
+● In this project I created a very fast calculator web page using react and CSS.
+Pokemons app—LINK
+● In this article I used beautiful SCSS structure, JavaScript and beautiful html code.
+● You will need this product when telling stories to your children.
+● To learn more about my project, visit my Github profile.
+Cosmos space—LINK
+● I have used React, Bootstrap, SCSS in this application.
+● In this prekt you travel to the cosmos and have a little rest.
+● To learn more about my project, visit my Github profile.
+Country app—LINK
+● This project will help you make the book faster.
+Player app—LINK
+● This website was developed using HTML, SCSS, and Bootstrap.
+● The convenience of this website acts as a calendar for everyone to view prayer times everywhere.
+● To learn more about my project, visit my Github profile.
+
+<!--  ### Hi 👋, I'm Abduhamid Botirov 👋
  
-#### I'm a full-stack developer with expertise in frontend technologies such as HTML, CSS, SCSS, Tailwind CSS, Bootstrap, MDB, Material-UI, JavaScript, jQuery, TypeScript, React, and Redux/toolkit. On the backend, I'm proficient in Node.js, REST API, Express.js, Postgres, GraphQL, and Redis. My main goal is to solve problems using my coding skills and methodologies, while continuously learning new and complex technologies to improve my craft.
+#### I'm a full-stack developer with expertise in frontend technologies such as HTML, CSS, SCSS, Tailwind CSS, Bootstrap, MDB, Material-UI, JavaScript, jQuery, TypeScript, React, and Redux/toolkit. On the backend, I'm proficient in Node.js, REST API, Express.js, Postgres, GraphQL, and Redis. My main goal is to solve problems using my coding skills and methodologies, while continuously learning new and complex technologies to improve my craft. -->
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=abduhamidweb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
