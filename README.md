@@ -1,179 +1,152 @@
-Botirov Abduhamid                     	Tashkent, Uzbekistan
-+998 (99) 786 70 75 | abduhamidbotirovweb@gmail.com | https://t.me/AbduhamidBotirov | https://github.com/abduhamidbotirovweb| https://www.linkedin.com/in/abduhamid-botirov-91a44b253/
-EXPERIENCE
-Temporarily unemployed
-EDUCATION
-It Park
-Sirdaryo, Uzbekistan — Full Stack development
-	July unemployedrch 2021  
-Najot Ta’li
-Tashkent, Uzbekistan — Full Stack development	July 2022 -Present
-Albison
-Tashkent, Uzbekistan — Frontend	2022 August – November 2022
+<div id="header" align="center">
+  <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
+</div>
 
-CERTIFICATES
-Uzbekcoders — LINK
-Udemy — LINK    
+<h2 align="center">Hi 👋, I'm Aagam Jain</h2>
 
-LANGUAGES
-English — B1 || Uzbek — Native Speaker
-BEST PROJECTS
-Telegram bot(2022)—LINK
-● Built a Telegram bot using Node.js and the Telegram Bot API to provide users with search functionality for YouTube videos, retrieval of GitHub                                          repositories, and daily prayer times for specific locations.
-● Integrated the YouTube Data API to enable search and retrieval of videos, and the GitHub REST API to retrieve user repositories.
-● Utilized MongoDB to store user data and preferences, improving user experience by allowing personalized recommendations and settings.
-● Deployed the bot on Render.com, allowing access to a wider audience and enabling continuous integration and deployment using Git.
-● To learn more about my project, visit my GitHub profile.
-Agency app—LINK
-● I used React.js, Material-UI, SCSS, Bootstrap, and Font Awesome libraries to create the Food Order.
-● By creating an application that includes UI/UX, responsive design and SEO optimization allows users to review the features of my products.
-● To learn more about my project, visit my GitHub profile.
-Food Order app—LINK
-● I used React.js, Material-UI, SCSS, Bootstrap, and Font Awesome libraries to create the Food Order.
-● By creating an application that includes UI/UX, responsive design and SEO optimization allows users to review the features of my products.
-● To learn more about my project, visit my Github profile.
-Youtube app—LINK
-● I used youtube API for this application.
-● This program mainly focuses on sidebar and html structure.
-● Basically, you can see the news first in this program.
-● This project will help you make the book faster.
-● To learn more about my project, visit my Github profile.
-
-
-PROJECTS
-Country app—Link
-● I used React.js, Material-UI, SCSS, Bootstrap, and Font Awesome libraries to create the Country app. 
-● The web app you'll need on your travels. 
-●This web application includes API, language, dark mode, pagination, loading etc.
-● To learn more about my project, visit my Github profile.
-
-Admin dashboard app—Link
-● I used React.js, SCSS, Bootstrap and Font Awesome libraries to create the Admin dashboard.
-● It will help you create a powerful and modern system for developing my own products.
-● By creating an application that includes UI/UX, responsive design and SEO optimization allows users to review the features of my products.
-● To learn more about my project, visit my Github profile
-Calculator React app—LINK
-● The project is mainly composed of React. React libraries consist of Material Ui Bootstrap and several small libraries. 
-● In this project I created a very fast calculator web page using react and CSS.
-Pokemons app—LINK
-● In this article I used beautiful SCSS structure, JavaScript and beautiful html code.
-● You will need this product when telling stories to your children.
-● To learn more about my project, visit my Github profile.
-Cosmos space—LINK
-● I have used React, Bootstrap, SCSS in this application.
-● In this prekt you travel to the cosmos and have a little rest.
-● To learn more about my project, visit my Github profile.
-Country app—LINK
-● This project will help you make the book faster.
-Player app—LINK
-● This website was developed using HTML, SCSS, and Bootstrap.
-● The convenience of this website acts as a calendar for everyone to view prayer times everywhere.
-● To learn more about my project, visit my Github profile.
-
-<!--  ### Hi 👋, I'm Abduhamid Botirov 👋
- 
-#### I'm a full-stack developer with expertise in frontend technologies such as HTML, CSS, SCSS, Tailwind CSS, Bootstrap, MDB, Material-UI, JavaScript, jQuery, TypeScript, React, and Redux/toolkit. On the backend, I'm proficient in Node.js, REST API, Express.js, Postgres, GraphQL, and Redis. My main goal is to solve problems using my coding skills and methodologies, while continuously learning new and complex technologies to improve my craft. -->
-
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=abduhamidweb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abduhamidweb&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abduhamidweb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+GL01%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abduhamidweb&icon=0&color=0)](https://visitcount.itsvg.in)
+### 👦 About Me
+- 👨‍💻 I'm a CS Pre-final graduate at UIET Kanpur
 
- 
-### Connect with me:
-<p align="left">
-<a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gorkcoder484" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gorkcoder484" height="30" width="40" /></a>
-</p>
- 
- 
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /> 
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:1000px;" />
-<p> 
-<img src="https://komarev.com/ghpvc/?username=abduhamidweb&color=brightgreen" alt="abduhamidweb"/>
-<a href="https://wakatime.com/@4e5f859d-4a72-40d4-b9f2-7466701f3c27"><img src="https://wakatime.com/badge/user/4e5f859d-4a72-40d4-b9f2-7466701f3c27.svg" alt="Total time coded since Sep 18 2021" /></a>
-</p>
-<br />
-<br />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abduhamidweb&theme=github_dark" alt="info">
-<br />
-<br />
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
-<br />
-<br />
-### Example of Work :
-<img src ="https://user-images.githubusercontent.com/67497228/170875693-ddaae788-f1c2-4b30-bfa2-bd97755a4805.gif"  />
+- 🔭 I’m currently working on **UIET Connect**
 
-  -->
- 
+- 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
+
+- ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
+
+--- 
+
+### 🔥 My Stats 
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=getlost01&count_private=true&show_icons=true&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com/?user=getlost01&theme=react)
+![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=getlost01&theme=react-dark)
+<a href="https://github.com/getlost01/github-stats">
+<img src="https://github.com/getlost01/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/getlost01/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react) -->
+<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=getlost01&theme=react) -->
+
+--- 
 
 
-<!-- Managing your profile README -->
-<!-- https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme --> 
+### ⚙️ My Projects 
 
-<!-- ![Welcome!](86T4GWHN.gif)
+#### Full-Stack Projects :
 
+* [Blogging Web APIs](https://github.com/getlost01/Postgre-APIs-App)
+* [Inventory App](https://github.com/getlost01/InventoryAppFrontend)
+* [UIET Connect](https://github.com/getlost01/UietConnect)
+* [Meal Planner](https://github.com/getlost01/meal-planner-API)
+* [Voting Managment System](https://github.com/getlost01/VotingManagmentSystem)
+* [ABitShort](https://github.com/getlost01/linkshortner)
+* [File Share App](https://github.com/getlost01/dlink-share)
 
+#### Web Store Extensions 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firdavsDev&theme=github_dark&show_icons=true)](https://github.com/firdavsDev/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FirdavsDev&theme=github_dark&layout=compact)](https://wakatime.com/@FirdavsDev)
+* [Color Tools and Dropper](https://github.com/getlost01/color-picker-updated)
+* [Site Saver](https://github.com/getlost01/site-saver)
+* [CP Calender](https://github.com/getlost01/cp-contest-calender)
 
+#### Frontend Projects :
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
+* [Quiz App Templates](https://github.com/getlost01/quiz-template)
+* [Country Search](https://github.com/getlost01/country-search)
+* [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
+* [Cure Science Updated](https://github.com/getlost01/CureScience)
 
-[![Davron's github stats](https://github-readme-stats.vercel.app/api?username=firdavsDev&theme=github_dark&show_icons=true)](https://github.com/firdavsDev/)
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=firdavsDev&theme=tokyonight_duo&hide_border=true)](https://github.com/firdavsDev/)
+### :hammer_and_wrench: Languages and Tools 
 
-**Back-end**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" title="JavaScript" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJs" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJs" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226091304-3b3e278f-b249-497d-a020-c13cba259e53.png" alt="NextJs" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="Mysql" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226094099-12fc633e-af1f-474b-ae66-951b09881305.png" alt="workbench" width="40" height="40"/>&nbsp;   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>&nbsp;        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226092559-edfa9908-a7ec-461c-918a-1f1d1fc3156f.png" alt="vercel" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226092756-fa7e7ed6-bfe3-4c24-9c49-ad1acfc436d6.png" alt="render" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" alt="jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226091590-d7d020ad-ce51-4497-bd7e-db7ed6e81589.png" alt="analytics" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226092991-4c479dbd-e253-4bec-ba2c-598206a7848d.png" alt="clarity" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226091920-a6b75979-6f7f-427f-8a95-c6fe279929f2.png" alt="swagger" width="40" height="40"/>&nbsp;
+  <img src="https://svgshare.com/i/5xY.svg" alt="heroku" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226091987-3cdf9344-dcfa-4d4e-ad0d-d3ab37c3c4db.png" alt="notion" width="40" height="40"/>&nbsp;
+   <img src="https://user-images.githubusercontent.com/79409258/226093710-b6a36dcd-8a66-4a1b-8ef2-1faeb0b6f3e2.png" alt="canva" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
+</div>
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
-![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
-![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
+---
 
-**Databases**
+### 📈 Weekly Developement Breakdown
 
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
-![SQLite](https://img.shields.io/badge/-Sqlite-%232c3e50?style=flat-square&logo=Sqlite)
+<!--START_SECTION:waka-simple-->
 
-**Tools**
+```text
+From: 24 January 2023 - To: 23 April 2023
 
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
+Total Time: 124 hrs 40 mins
 
-**Contact**
+TypeScript   96 hrs 30 mins  ███████████████████▒░░░░░   77.41 %
+JavaScript   15 hrs 21 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
+XML          2 hrs 56 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+JSON         2 hrs 28 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+CSS          1 hr 55 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Markdown     1 hr 31 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+```
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/www.linkedin.com/in/davronbek-boltayev)](https://www.linkedin.com/in/davronbek-boltayev/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davronbekboltayev777@gmail.com)](mailto:davronbekboltayev777@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_dev)](https://t.me/firdavs_dev)
+<!--END_SECTION:waka-simple-->
 
-<p> 
-<img src="https://komarev.com/ghpvc/?username=firdavsDev&color=brightgreen" alt="firdavsDev"/>
-<a href="https://wakatime.com/@4e5f859d-4a72-40d4-b9f2-7466701f3c27"><img src="https://wakatime.com/badge/user/4e5f859d-4a72-40d4-b9f2-7466701f3c27.svg" alt="Total time coded since Sep 18 2021" /></a>
-</p>
+---
 
-<br>
+### 🐍 Contribution snake
 
-<img src="https://github-profile-trophy.vercel.app/?username=firdavsDev&margin-w=5&theme=radical" alt="info" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake.svg">
+</picture>
 
-------------
-GitMemory: https://gitmemory.com/firdavsDev
+---
 
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
- -->
+### 🔗 Social info
 
+<div id="badges">
+    <a href="https://www.linkedin.com/in/aagam-jain-gl01/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.gl01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://portfolio-de-aagam.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+</div>
 
+---
+
+### 👀 Visitor Info
+
+![Hitcount](https://komarev.com/ghpvc/?username=getlost01&color=57bcd9)
