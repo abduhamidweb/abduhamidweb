@@ -2,29 +2,27 @@
   <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
 </div>
 
-<h2 align="center">Hi 👋, I'm Aagam Jain</h2>
+<h2 align="center">Hi 👋, I'm Abduhamid Botirov</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+GL01%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a CS Pre-final graduate at UIET Kanpur
-
-- 🔭 I’m currently working on **UIET Connect**
+- 👨‍💻 I'm a Full-Stack developer
 
 - 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
 
-- ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
+- ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% chatGPT + 40% Google**
 
 --- 
 
 ### 🔥 My Stats 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=getlost01&count_private=true&show_icons=true&theme=react)
-![GitHub Streak](https://streak-stats.demolab.com/?user=getlost01&theme=react)
-![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=getlost01&theme=react-dark)
-<a href="https://github.com/getlost01/github-stats">
-<img src="https://github.com/getlost01/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/getlost01/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=abduhamidweb&count_private=true&show_icons=true&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com/?user=abduhamidweb&theme=react)
+![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=abduhamidweb&theme=react-dark)
+<a href="https://github.com/abduhamidweb/github-stats">
+<img src="https://github.com/abduhamidweb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/abduhamidweb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react) -->
 <!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=getlost01&theme=react) -->
@@ -36,26 +34,26 @@
 
 #### Full-Stack Projects :
 
-* [Blogging Web APIs](https://github.com/getlost01/Postgre-APIs-App)
-* [Inventory App](https://github.com/getlost01/InventoryAppFrontend)
-* [UIET Connect](https://github.com/getlost01/UietConnect)
+* [YouTube with API](https://github.com/abduhamidweb/Youtube-clone-2)
+* [SRM App](https://github.com/abduhamidweb/SRM-Backend)
+<!-- * [UIET Connect](https://github.com/getlost01/UietConnect)
 * [Meal Planner](https://github.com/getlost01/meal-planner-API)
 * [Voting Managment System](https://github.com/getlost01/VotingManagmentSystem)
 * [ABitShort](https://github.com/getlost01/linkshortner)
-* [File Share App](https://github.com/getlost01/dlink-share)
+* [File Share App](https://github.com/getlost01/dlink-share) -->
 
-#### Web Store Extensions 
+<!-- #### Web Store Extensions 
 
 * [Color Tools and Dropper](https://github.com/getlost01/color-picker-updated)
 * [Site Saver](https://github.com/getlost01/site-saver)
 * [CP Calender](https://github.com/getlost01/cp-contest-calender)
-
+ -->
 #### Frontend Projects :
 
-* [Quiz App Templates](https://github.com/getlost01/quiz-template)
-* [Country Search](https://github.com/getlost01/country-search)
+* [Quiz App Templates](https://github.com/abduhamidweb/Learn-English)
+<!-- * [Country Search](https://github.com/getlost01/country-search)
 * [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
-* [Cure Science Updated](https://github.com/getlost01/CureScience)
+* [Cure Science Updated](https://github.com/getlost01/CureScience) -->
 
 ---
 
@@ -109,9 +107,8 @@ From: 24 January 2023 - To: 23 April 2023
 
 Total Time: 124 hrs 40 mins
 
-TypeScript   96 hrs 30 mins  ███████████████████▒░░░░░   77.41 %
-JavaScript   15 hrs 21 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
-XML          2 hrs 56 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+JavaScript   96 hrs 30 mins  ███████████████████▒░░░░░   77.41 %
+TypeScript   15 hrs 21 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
 JSON         2 hrs 28 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 CSS          1 hr 55 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 Markdown     1 hr 31 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
@@ -124,9 +121,9 @@ Markdown     1 hr 31 mins    ▒░░░░░░░░░░░░░░░░
 ### 🐍 Contribution snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abduhamidweb/abduhamidweb/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abduhamidweb/abduhamidweb/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abduhamidweb/abduhamidweb/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -134,19 +131,19 @@ Markdown     1 hr 31 mins    ▒░░░░░░░░░░░░░░░░
 ### 🔗 Social info
 
 <div id="badges">
-    <a href="https://www.linkedin.com/in/aagam-jain-gl01/">
+    <a href="https://www.linkedin.com/in/abduhamid-botirov-91a44b253/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.gl01@gmail.com">
+    <a href="abduhamidbotirovweb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://portfolio-de-aagam.netlify.app/">
+<!--     <a href="https://portfolio-de-aagam.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-    </a>
+    </a> -->
 </div>
 
 ---
 
 ### 👀 Visitor Info
 
-![Hitcount](https://komarev.com/ghpvc/?username=getlost01&color=57bcd9)
+![Hitcount](https://komarev.com/ghpvc/?username=abduhamidweb&color=57bcd9)
