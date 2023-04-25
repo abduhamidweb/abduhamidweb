@@ -96,36 +96,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-<!-- ### 📈 Weekly Developement Breakdown -->
-
-<!--START_SECTION:waka-simple-->
-
-<!-- From: 24 January 2023 - To: 23 April 2023
-
-Total Time: 124 hrs 40 mins
-
-TypeScript   96 hrs 30 mins  ███████████████████▒░░░░░   77.41 %
-JavaScript   15 hrs 21 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
-XML          2 hrs 56 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-JSON         2 hrs 28 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-CSS          1 hr 55 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Markdown     1 hr 31 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
- -->
-<!--END_SECTION:waka-simple-->
-
----
-
-<!-- ### 🐍 Contribution snake -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abduhamidweb/abduhamidweb/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abduhamidweb/abduhamidweb/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abduhamidweb/abduhamidweb/output/github-contribution-grid-snake.svg">
-</picture> 
-
-
 ### 🔗 Social info
 
 <div id="badges">
