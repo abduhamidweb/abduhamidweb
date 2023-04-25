@@ -1,17 +1,9 @@
  ### Hi 👋, I'm Abduhamid Botirov 👋
  
-- 🔭 I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, Material UI, Redux, RESTAPI, NodeJs, Express, Mongodb and MYSQL 
-- 🌱 I’m currently learning NodeJs and Express 
-- 👯 I’m looking to collaborate on Youtube and Full Stack Developer
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... MERN
-- 😄 Pronouns: ... YES
-- ⚡ Fun fact: ... I am Funny and I love to Code 
-
 #### I'm a full-stack developer with expertise in frontend technologies such as HTML, CSS, SCSS, Tailwind CSS, Bootstrap, MDB, Material-UI, JavaScript, jQuery, TypeScript, React, and Redux/toolkit. On the backend, I'm proficient in Node.js, REST API, Express.js, Postgres, GraphQL, and Redis. My main goal is to solve problems using my coding skills and methodologies, while continuously learning new and complex technologies to improve my craft.
 
 
-![](https://github-readme-stats.vercel.app/api?username=abduhamidweb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=abduhamidweb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abduhamidweb&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abduhamidweb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -52,7 +44,7 @@
 ### Example of Work :
 <img src ="https://user-images.githubusercontent.com/67497228/170875693-ddaae788-f1c2-4b30-bfa2-bd97755a4805.gif"  />
 
- 
+  -->
  
 
 
