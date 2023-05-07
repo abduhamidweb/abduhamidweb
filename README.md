@@ -1,4 +1,4 @@
-
+<!-- 
 <h1 align="center">Hi 👋, I'm Abduhamid</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abduhamidweb&show_icons=true&locale=en" alt="abduhamidweb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abduhamidweb&" alt="abduhamidweb" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abduhamidweb&" alt="abduhamidweb" /></p> -->
 
 
 
@@ -39,7 +39,6 @@
 
 
 
-<!-- 
 
 <div id="header" align="center">
   <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
@@ -86,7 +85,7 @@
 * [ABitShort](https://github.com/getlost01/linkshortner)
 * [File Share App](https://github.com/getlost01/dlink-share) -->
 
-<!-- #### Web Store Extensions 
+ #### Web Store Extensions 
 
 * [Color Tools and Dropper](https://github.com/getlost01/color-picker-updated)
 * [Site Saver](https://github.com/getlost01/site-saver)
@@ -159,4 +158,3 @@
 ### 👀 Visitor Info
 
 ![Hitcount](https://komarev.com/ghpvc/?username=abduhamidweb&color=57bcd9)
- -->
