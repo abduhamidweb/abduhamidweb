@@ -173,7 +173,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/abduhamidweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/abduhamidweb" height="30" width="40" /></a>
-<a href="https://dev.to/dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev" height="30" width="40" /></a>
+<a href="https://dev.to/abduhamidweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abduhamid-botirov-91a44b253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abduhamid-botirov-91a44b253/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/abduhamid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abduhamid" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100091502058825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100091502058825" height="30" width="40" /></a>
