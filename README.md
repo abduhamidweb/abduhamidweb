@@ -190,7 +190,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/abduhamidbZ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/abduhamidbZ" /></a><a href="https://ko-fi.com/https://bmc.link/abduhamidbZ"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://bmc.link/abduhamidbZ" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abduhamidweb&show_icons=true&locale=en&layout=compact" alt="abduhamidweb" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abduhamidweb&show_icons=true&locale=en&layout=compact" alt="abduhamidweb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abduhamidweb&show_icons=true&locale=en" alt="abduhamidweb" /></p>
 ### 🔗 Social info
@@ -205,10 +205,10 @@
 <!--     <a href="https://portfolio-de-aagam.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
     </a> -->
-</div>
+<!-- </div> -->
 
----
+<!-- --- -->
 
-### 👀 Visitor Info
+<!-- ### 👀 Visitor Info -->
 
-![Hitcount](https://komarev.com/ghpvc/?username=abduhamidweb&color=57bcd9)
+<!-- ![Hitcount](https://komarev.com/ghpvc/?username=abduhamidweb&color=57bcd9) --> 
