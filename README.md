@@ -98,16 +98,34 @@
 </div>
 
 <h2 align="center">Hi 👋, I'm Abduhamid Botirov</h2>
-
+<h3 align="center">A passionate Full-Stack developer from Uzbekistan</h3>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+DEV%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 ---
-### 👦 About Me
-- 👨‍💻 I'm a Full-Stack developer
 
-- 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
- 
-- ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% chatGPT + 40% Google**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abduhamidweb&label=Profile%20views&color=0e75b6&style=flat" alt="abduhamidweb" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abduhamidweb" alt="abduhamidweb" /></a> </p>
+
+- 🔭 I’m currently working on [Restaurant](https://github.com/abduhamidweb/Full-Restauran)
+
+- 🌱 I’m currently learning **nextJs**
+
+- 👯 I’m looking to collaborate on [Food Order](https://github.com/abduhamidweb/Extra)
+
+- 🤝 I’m looking for help with [Test](Test Link)
+
+- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+
+- 📝 I regularly write articles on [BLOG LINK](BLOG LINK)
+
+- 💬 Ask me about **react, nodeJs, mongodb**
+
+- 📫 How to reach me **abduhamid.com**
+
+- 📄 Know about my experiences [RESUME LINK](RESUME LINK)
+
+- ⚡ Fun fact **I think I am funny**
 
 --- 
 
