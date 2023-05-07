@@ -155,13 +155,13 @@
 * [Voting Managment System](https://github.com/getlost01/VotingManagmentSystem)
 * [ABitShort](https://github.com/getlost01/linkshortner)
 * [File Share App](https://github.com/getlost01/dlink-share) -->
-
+<!-- 
  #### Web Store Extensions 
 
 * [Color Tools and Dropper](https://github.com/getlost01/color-picker-updated)
 * [Site Saver](https://github.com/getlost01/site-saver)
 * [CP Calender](https://github.com/getlost01/cp-contest-calender)
- -->
+ --> 
 #### Frontend Projects :
 
 * [Quiz App Templates](https://github.com/abduhamidweb/Learn-English)
