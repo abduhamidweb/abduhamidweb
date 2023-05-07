@@ -1,4 +1,45 @@
 
+<h1 align="center">Hi 👋, I'm Abduhamid</h1>
+<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abduhamidweb&label=Profile%20views&color=0e75b6&style=flat" alt="abduhamidweb" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abduhamidweb" alt="abduhamidweb" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ewfea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ewfea" height="30" width="40" /></a>
+<a href="https://codesandbox.com/sxasxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sxasxa" height="30" width="40" /></a>
+<a href="https://fb.com/verver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="verver" height="30" width="40" /></a>
+<a href="https://dribbble.com/vrever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vrever" height="30" width="40" /></a>
+<a href="https://hashnode.com/vrevra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="vrevra" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/verver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="verver" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/verver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="verver" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/evrver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="evrver" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abduhamidweb&show_icons=true&locale=en&layout=compact" alt="abduhamidweb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abduhamidweb&show_icons=true&locale=en" alt="abduhamidweb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abduhamidweb&" alt="abduhamidweb" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
 
 <div id="header" align="center">
   <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
@@ -118,3 +159,4 @@
 ### 👀 Visitor Info
 
 ![Hitcount](https://komarev.com/ghpvc/?username=abduhamidweb&color=57bcd9)
+ -->
