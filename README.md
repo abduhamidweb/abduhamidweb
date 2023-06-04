@@ -46,9 +46,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=abduhamidweb&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 </p>
 ---
-### 🔥 My Stats 
+<!-- ### 🔥 My Stats 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=abduhamidweb&count_private=true&show_icons=true&theme=react)
-![GitHub Streak](https://streak-stats.demolab.com/?user=abduhamidweb&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com/?user=abduhamidweb&theme=react) -->
 <!-- ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=abduhamidweb&theme=react-dark) -->
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abduhamidweb&layout=compact&langs_count=10&theme=react)  -->
 <!--  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abduhamidweb&theme=react)  -->
