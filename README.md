@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 <!--  
 <h1 align="center">Hi 👋, I'm Abduhamid</h1> 
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3> 
@@ -107,7 +107,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abduhamidweb&label=Profile%20views&color=0e75b6&style=flat" alt="abduhamidweb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abduhamidweb" alt="abduhamidweb" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 🔭 I’m currently working on [Restaurant](https://github.com/abduhamidweb/Full-Restauran)
 
 - 🌱 I’m currently learning **nextJs**
