@@ -1,8 +1,8 @@
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abduhamidweb&label=Profile%20views&color=0e75b6&style=flat" alt="Abduhamid" /> </p>
 
-
+ -->
 
 <div id="header" align="center">
   <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
@@ -43,7 +43,7 @@
 ### 🔥 My Stats 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=abduhamidweb&count_private=true&show_icons=true&theme=react)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=abduhamidweb&theme=react)
-![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=abduhamidweb&theme=react-dark)
+<!-- ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=abduhamidweb&theme=react-dark) -->
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abduhamidweb&layout=compact&langs_count=10&theme=react)  -->
 <!--  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abduhamidweb&theme=react)  -->
 
