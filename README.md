@@ -14,7 +14,7 @@
 
 ---
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abduhamidweb&label=Profile%20views&color=0e75b6&style=flat" alt="abduhamidweb" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abduhamidweb&label=Profile%20views&color=0e75b6&style=flat" alt="abduhamidweb" /> </p>
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
 <img src="https://metrics.lecoq.io/abduhamidweb?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
