@@ -133,12 +133,8 @@
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=abduhamidweb&count_private=true&show_icons=true&theme=react)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=abduhamidweb&theme=react)
 ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=abduhamidweb&theme=react-dark)
-<a href="https://github.com/abduhamidweb/github-stats">
-<img src="https://github.com/abduhamidweb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/abduhamidweb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abduhamidweb&layout=compact&langs_count=10&theme=react) 
- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abduhamidweb&theme=react) 
+<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abduhamidweb&layout=compact&langs_count=10&theme=react)  -->
+<!--  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abduhamidweb&theme=react)  -->
 
 --- 
 
