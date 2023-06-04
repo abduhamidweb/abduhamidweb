@@ -68,7 +68,7 @@
 * [Color Tools and Dropper](https://github.com/getlost01/color-picker-updated)
 * [Site Saver](https://github.com/getlost01/site-saver)
 * [CP Calender](https://github.com/getlost01/cp-contest-calender)
- --> 
+ -->
 #### Frontend Projects :
 
 * [Quiz App Templates](https://github.com/abduhamidweb/Learn-English)
@@ -79,11 +79,20 @@
 ---
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
-<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/user?user=KasRoudra&layout=compact&img=github&theme=monokai"/></a>
-<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/lang?user=KasRoudra&layout=compact&type=donut&minimum=0.1&theme=gruvbox"/></a>
+ 1
+<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card">
+ 2
+<img src="https://kasroudra-stats-card.onrender.com/user?user=KasRoudra&layout=compact&img=github&theme=monokai"/>
+</a>
+<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card">
+ 3
+<img src="https://kasroudra-stats-card.onrender.com/lang?user=KasRoudra&layout=compact&type=donut&minimum=0.1&theme=gruvbox"/>
+</a>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&theme=dracula">
+ 4
 <img src="https://metrics.lecoq.io/KasRoudra?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
 <img src="https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+ 5
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
