@@ -14,15 +14,9 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abduhamidweb&label=Profile%20views&color=0e75b6&style=flat" alt="abduhamidweb" /> </p>
-<h2 align="center"><u>My Github Stats</u></h2>
-<p align="center">
-<img src="https://metrics.lecoq.io/abduhamidweb?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
-<img src="https://github-profile-trophy.vercel.app/?username=abduhamidweb&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
-</p>
----
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abduhamidweb" alt="abduhamidweb" /></a> </p>
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abduhamidweb" alt="abduhamidweb" /></a> </p> -->
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 🔭 I’m currently working on [Restaurant](https://github.com/abduhamidweb/Full-Restauran)
 
@@ -45,7 +39,13 @@
 - ⚡ Fun fact **I think I am funny**
 
 ---
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abduhamidweb&label=Profile%20views&color=0e75b6&style=flat" alt="abduhamidweb" /> </p>
+<h2 align="center"><u>My Github Stats</u></h2>
+<p align="center">
+<img src="https://metrics.lecoq.io/abduhamidweb?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
+<img src="https://github-profile-trophy.vercel.app/?username=abduhamidweb&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+</p>
+---
 ### 🔥 My Stats 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=abduhamidweb&count_private=true&show_icons=true&theme=react)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=abduhamidweb&theme=react)
