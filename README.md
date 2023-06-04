@@ -38,8 +38,13 @@
 
 - ⚡ Fun fact **I think I am funny**
 
---- 
-
+---
+<h2 align="center"><u>My Github Stats</u></h2>
+<p align="center">
+<img src="https://metrics.lecoq.io/abduhamidweb?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
+<img src="https://github-profile-trophy.vercel.app/?username=abduhamidweb&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+</p>
+---
 ### 🔥 My Stats 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=abduhamidweb&count_private=true&show_icons=true&theme=react)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=abduhamidweb&theme=react)
@@ -77,21 +82,7 @@
 * [Cure Science Updated](https://github.com/getlost01/CureScience) -->
 
 ---
-<h2 align="center"><u>My Github Stats</u></h2>
-<p align="center">
-<!--  1
-<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card">
- 2
-<img src="https://kasroudra-stats-card.onrender.com/user?user=KasRoudra&layout=compact&img=github&theme=monokai"/>
-</a> -->
-<!-- <a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card">
- 3
-<img src="https://kasroudra-stats-card.onrender.com/lang?user=KasRoudra&layout=compact&type=donut&minimum=0.1&theme=gruvbox"/>
-</a> -->
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&theme=dracula"> -->
-<img src="https://metrics.lecoq.io/abduhamidweb?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
-<img src="https://github-profile-trophy.vercel.app/?username=abduhamidweb&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/abduhamidweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/abduhamidweb" height="30" width="40" /></a>
