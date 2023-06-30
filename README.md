@@ -3,10 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abduhamidweb&label=Profile%20views&color=0e75b6&style=flat" alt="Abduhamid" /> </p>
   
  --> 
- 
-<div id="header" align="center">
-  <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
-</div>
+
 
 <h2 align="center">Hi 👋, I'm Abduhamid Botirov</h2>
 <h3 align="center">A passionate Full-Stack developer from Uzbekistan</h3>
@@ -40,12 +37,9 @@
 
 ---
 
-<!-- ### 🔥 My Stats 
+### 🔥 My Stats 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=abduhamidweb&count_private=true&show_icons=true&theme=react)
-![GitHub Streak](https://streak-stats.demolab.com/?user=abduhamidweb&theme=react) -->
-<!-- ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=abduhamidweb&theme=react-dark) -->
-<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abduhamidweb&layout=compact&langs_count=10&theme=react)  -->
-<!--  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abduhamidweb&theme=react)  -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abduhamidweb&layout=compact&langs_count=10&theme=react)  
 
 ### ⚙️ My Projects 
 
@@ -54,31 +48,22 @@
 * YouTube with API <a href="https://github.com/abduhamidweb/Youtube-clone-2">Youtubening clone varyanti.<a/>
 * SRM App <a href="https://github.com/abduhamidweb/SRM-Backend">SRM, o'qtuvchilar va ularning kurslari<a/>
 * English words <a href="https://github.com/abduhamidweb/English-words-book-random-question">English so'zlar endi o'yinda <a/>
+* Sapid <a href="https://github.com/abduhamidweb/Sapid-Frontend"> tezkor taom buyurtma qiling <a/>
+* Restaurant <a href="https://github.com/abduhamidweb/Restauran"> Restaurantlar xaqida ma'lumot oling<a/>
 
-<!-- * [UIET Connect](https://github.com/getlost01/UietConnect)
-* [Meal Planner](https://github.com/getlost01/meal-planner-API)
-* [Voting Managment System](https://github.com/getlost01/VotingManagmentSystem)
-* [ABitShort](https://github.com/getlost01/linkshortner)
-* [File Share App](https://github.com/getlost01/dlink-share) -->
-<!-- 
- #### Web Store Extensions 
-
-* [Color Tools and Dropper](https://github.com/getlost01/color-picker-updated)
-* [Site Saver](https://github.com/getlost01/site-saver)
-* [CP Calender](https://github.com/getlost01/cp-contest-calender)
- -->
 #### Backend Projects :
 
 * English dictionary <a href="https://github.com/abduhamidweb/dictionary-backend"> Englizcha lug'atlar backend qismi<a/>
 * Buy or sell <a href="https://github.com/abduhamidweb/startup">loyixangizni soting yoki sotib oling<a/> 
+* Portfolio <a href="https://github.com/abduhamidweb/Portfolio-backend">O'z portfoliongizni yarating<a/>
+* Sapid <a href="https://github.com/abduhamidweb/Sapid-Backend"> tezkor taom buyurtma qiling <a/>
+* Restaurant <a href="https://github.com/abduhamidweb/restaurant"> Restaurant backend <a/>
 
 #### Frontend Projects :
 
 * English app  <a href="https://github.com/abduhamidweb/Learn-English">ingliz tili so'zlarini o'yi orqali o'rganing<a/>
 * English dictionary <a href="https://github.com/abduhamidweb/Essential-Frontend">Ingliz tili Lugat kitobi front qismi<a/>
-<!-- * [Country Search](https://github.com/getlost01/country-search)
-* [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
-* [Cure Science Updated](https://github.com/getlost01/CureScience) -->
+* Sapid <a href="https://github.com/abduhamidweb/Sapid-Frontend"> tezkor taom buyurtma qiling <a/>
 
 ---
 
