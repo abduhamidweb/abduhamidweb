@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **abduhamid.uz**
 
-- 📄 Know about my experiences [RESUME LINK](<a href="https://drive.google.com/file/d/1n3QgoIf5mmfp5zXETdY3iQVs1wezRiQ2/view"> my resume</a>)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1n3QgoIf5mmfp5zXETdY3iQVs1wezRiQ2/view">My resume</a>
 
 - ⚡ Fun fact **I think I am funny**
 
