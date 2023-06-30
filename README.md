@@ -18,21 +18,21 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abduhamidweb" alt="abduhamidweb" /></a> </p> -->
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-- 🔭 I’m currently working on [Restaurant](https://github.com/abduhamidweb/Full-Restauran)
+- 🔭 I’m currently working on <a href="https://github.com/abduhamidweb/startup">StartUp real app</a>
 
 - 🌱 I’m currently learning **nextJs**
 
-- 👯 I’m looking to collaborate on [Food Order](https://github.com/abduhamidweb/Extra)
+- 👯 I’m looking to collaborate on <a href="https://github.com/abduhamidweb/startup">StartUp<a/>
 
-- 🤝 I’m looking for help with [Test](Test Link)
+- 🤝 I’m looking for help with <a href="https://t.me/AbduhamidBotirov">My telegram app<a/>
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available at <a href="https://abduhamidbotirov.netlify.app/#/home">My portfolio<a/>
 
-- 📝 I regularly write articles on [BLOG LINK](BLOG LINK)
+- 📝 I regularly write articles on <a href="https://t.me/Code_Crafters_Team">CodeCrafters<a/>
 
 - 💬 Ask me about **react, nodeJs, mongodb**
 
-- 📫 How to reach me **abduhamid.uz**
+- 📫 How to reach me **<a href="https://abduhamidbotirov.netlify.app/#/home">abduhamid.uz<a/>**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1n3QgoIf5mmfp5zXETdY3iQVs1wezRiQ2/view">My resume</a>
 
@@ -52,9 +52,6 @@
 <!-- ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=abduhamidweb&theme=react-dark) -->
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abduhamidweb&layout=compact&langs_count=10&theme=react)  -->
 <!--  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abduhamidweb&theme=react)  -->
-
---- 
-
 
 ### ⚙️ My Projects 
 
