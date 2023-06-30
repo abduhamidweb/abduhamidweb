@@ -39,13 +39,7 @@
 - ⚡ Fun fact **I think I am funny**
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abduhamidweb&label=Profile%20views&color=0e75b6&style=flat" alt="abduhamidweb" /> </p>
-<h2 align="center"><u>My Github Stats</u></h2>
-<p align="center">
-<img src="https://metrics.lecoq.io/abduhamidweb?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
-<img src="https://github-profile-trophy.vercel.app/?username=abduhamidweb&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
-</p>
----
+
 <!-- ### 🔥 My Stats 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=abduhamidweb&count_private=true&show_icons=true&theme=react)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=abduhamidweb&theme=react) -->
@@ -57,9 +51,10 @@
 
 #### Full-Stack Projects :
 
-* [YouTube with API](https://github.com/abduhamidweb/Youtube-clone-2)
-* [SRM App](https://github.com/abduhamidweb/SRM-Backend)
-* [English words](https://github.com/abduhamidweb/English-words-book-random-question)
+* YouTube with API <a href="https://github.com/abduhamidweb/Youtube-clone-2">Youtubening clone varyanti.<a/>
+* SRM App <a href="https://github.com/abduhamidweb/SRM-Backend">SRM, o'qtuvchilar va ularning kurslari<a/>
+* English words <a href="https://github.com/abduhamidweb/English-words-book-random-question">English so'zlar endi o'yinda <a/>
+
 <!-- * [UIET Connect](https://github.com/getlost01/UietConnect)
 * [Meal Planner](https://github.com/getlost01/meal-planner-API)
 * [Voting Managment System](https://github.com/getlost01/VotingManagmentSystem)
@@ -72,9 +67,15 @@
 * [Site Saver](https://github.com/getlost01/site-saver)
 * [CP Calender](https://github.com/getlost01/cp-contest-calender)
  -->
+#### Backend Projects :
+
+* English dictionary <a href="https://github.com/abduhamidweb/dictionary-backend"> Englizcha lug'atlar backend qismi<a/>
+* Buy or sell <a href="https://github.com/abduhamidweb/startup">loyixangizni soting yoki sotib oling<a/> 
+
 #### Frontend Projects :
 
-* [Quiz App Templates](https://github.com/abduhamidweb/Learn-English)
+* English app  <a href="https://github.com/abduhamidweb/Learn-English">ingliz tili so'zlarini o'yi orqali o'rganing<a/>
+* English dictionary <a href="https://github.com/abduhamidweb/Essential-Frontend">Ingliz tili Lugat kitobi front qismi<a/>
 <!-- * [Country Search](https://github.com/getlost01/country-search)
 * [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
 * [Cure Science Updated](https://github.com/getlost01/CureScience) -->
