@@ -61,25 +61,25 @@
 
 #### Full-Stack Projects :
 
-* YouTube with API <a href="https://github.com/abduhamidweb/Youtube-clone-2">Youtubening clone varyanti.<a/>
-* SRM App <a href="https://github.com/abduhamidweb/SRM-Backend">SRM, o'qtuvchilar va ularning kurslari<a/>
-* English words <a href="https://github.com/abduhamidweb/English-words-book-random-question">English so'zlar endi o'yinda <a/>
-* Sapid <a href="https://github.com/abduhamidweb/Sapid-Frontend"> tezkor taom buyurtma qiling <a/>
-* Restaurant <a href="https://github.com/abduhamidweb/Restauran"> Restaurantlar xaqida ma'lumot oling<a/>
+* YouTube with API <a href="https://github.com/abduhamidweb/Youtube-clone-2">Youtubening clone varyanti.<a/> INFO: I worked on the project `JavaScript` • `React Js` • `API really YouTube` 
+* SRM App <a href="https://github.com/abduhamidweb/SRM-Backend">SRM, o'qtuvchilar va ularning kurslari<a/> INFO: I worked on the project `Postgres` • `Express Js` • `Some Library`
+* English words <a href="https://github.com/abduhamidweb/English-words-book-random-question">English so'zlar endi o'yinda <a/> INFO: I worked on the project `JavaScript` • `HTML` • `CSS`
+* Sapid <a href="https://github.com/abduhamidweb/Sapid-Frontend"> tezkor taom buyurtma qiling <a/> INFO: I worked on the project `JavaScript` • `React Js` • `SCSS` • `MongoDb`, • `Express Js` • `TypeScript` 
+* Restaurant <a href="https://github.com/abduhamidweb/Restauran"> Restaurantlar xaqida ma'lumot oling<a/> INFO:  I worked on the project `JavaScript` • `MongoDB` • `Express Js` • `HTML/CSS`
 
 #### Backend Projects :
 
-* English dictionary <a href="https://github.com/abduhamidweb/dictionary-backend"> Englizcha lug'atlar backend qismi<a/>
-* Buy or sell <a href="https://github.com/abduhamidweb/startup">loyixangizni soting yoki sotib oling<a/> 
-* Portfolio <a href="https://github.com/abduhamidweb/Portfolio-backend">O'z portfoliongizni yarating<a/>
-* Sapid <a href="https://github.com/abduhamidweb/Sapid-Backend"> tezkor taom buyurtma qiling <a/>
-* Restaurant <a href="https://github.com/abduhamidweb/restaurant"> Restaurant backend <a/>
+* English dictionary <a href="https://github.com/abduhamidweb/dictionary-backend"> Englizcha lug'atlar backend qismi<a/> [ I worked on the project `JavaScript`]
+* Buy or sell <a href="https://github.com/abduhamidweb/startup">loyixangizni soting yoki sotib oling<a/> [ I worked on the project `JavaScript`]
+* Portfolio <a href="https://github.com/abduhamidweb/Portfolio-backend">O'z portfoliongizni yarating<a/> [ I worked on the project `JavaScript`]
+* Sapid <a href="https://github.com/abduhamidweb/Sapid-Backend"> tezkor taom buyurtma qiling <a/> [ I worked on the project `JavaScript`]
+* Restaurant <a href="https://github.com/abduhamidweb/restaurant"> Restaurant backend <a/> [ I worked on the project `JavaScript`]
 
 #### Frontend Projects :
 
-* English app  <a href="https://github.com/abduhamidweb/Learn-English">ingliz tili so'zlarini o'yi orqali o'rganing<a/>
-* English dictionary <a href="https://github.com/abduhamidweb/Essential-Frontend">Ingliz tili Lugat kitobi front qismi<a/>
-* Sapid <a href="https://github.com/abduhamidweb/Sapid-Frontend"> tezkor taom buyurtma qiling <a/>
+* English app  <a href="https://github.com/abduhamidweb/Learn-English">ingliz tili so'zlarini o'yi orqali o'rganing<a/> [ I worked on the project `JavaScript`]
+* English dictionary <a href="https://github.com/abduhamidweb/Essential-Frontend">Ingliz tili Lugat kitobi front qismi<a/> [ I worked on the project `JavaScript`]
+* Sapid <a href="https://github.com/abduhamidweb/Sapid-Frontend"> tezkor taom buyurtma qiling <a/> [ I worked on the project `JavaScript`]
 
 ---
 
