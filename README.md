@@ -77,7 +77,7 @@
 
 #### Frontend Projects :
 
-* English app  <a href="https://github.com/abduhamidweb/Learn-English">ingliz tili so'zlarini o'yi orqali o'rganing<a/> [ I worked on the project `JavaScript`]
+* English app  <a href="https://gilded-smakager-d9f418.netlify.app/index.html">ingliz tili so'zlarini o'yi orqali o'rganing<a/> [ I worked on the project `JavaScript`]
 * English dictionary <a href="https://github.com/abduhamidweb/Essential-Frontend">Ingliz tili Lugat kitobi front qismi<a/> [ I worked on the project `JavaScript`]
 * Sapid <a href="https://github.com/abduhamidweb/Sapid-Frontend"> tezkor taom buyurtma qiling <a/> [ I worked on the project `JavaScript`]
 
