@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **<a href="https://abduhamidbotirov.netlify.app/#/home">abduhamid.uz<a/>**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1n3QgoIf5mmfp5zXETdY3iQVs1wezRiQ2/view">My resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/u/0/uc?id=1n3QgoIf5mmfp5zXETdY3iQVs1wezRiQ2&export=download">My resume</a>
 
 - ⚡ Fun fact **I think I am funny**
 
