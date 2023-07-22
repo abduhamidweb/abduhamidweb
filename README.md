@@ -69,17 +69,17 @@
 
 #### Backend Projects :
 
-* English dictionary <a href="https://github.com/abduhamidweb/dictionary-backend"> LINK<a/> [ I worked on the project `JavaScript`]
-* Buy or sell <a href="https://github.com/abduhamidweb/startup">LINK<a/> [ I worked on the project `JavaScript`]
-* Portfolio <a href="https://github.com/abduhamidweb/Portfolio-backend">LINK<a/> [ I worked on the project `JavaScript`]
-* Sapid <a href="https://github.com/abduhamidweb/Sapid-Backend"> LINK <a/> [ I worked on the project `JavaScript`]
-* Restaurant <a href="https://github.com/abduhamidweb/restaurant"> LINK <a/> [ I worked on the project `JavaScript`]
+* English dictionary <a href="https://github.com/abduhamidweb/dictionary-backend"> LINK<a/>  I worked on the project `JavaScript` • `Node Js` • `TypeScript` •  `ExpressJs` • `MongoDb` • `mongoose` • `Redis` 
+* Buy or sell <a href="https://github.com/abduhamidweb/startup">LINK<a/>  I worked on the project `JavaScript` • `Node Js` • `ExpressJs` • `MongoDb` • `mongoose` • `Redis` 
+* Portfolio template <a href="https://github.com/abduhamidweb/Portfolio-backend"> LINK <a/> I worked on the project `JavaScript` • `Node Js` • `TypeScript` •  `ExpressJs` • `MongoDb` • `mongoose` • `Redis` 
+* Sapid <a href="https://github.com/abduhamidweb/Sapid-Backend"> LINK <a/>  I worked on the project  `JavaScript` • `Node Js` • `TypeScript` •  `ExpressJs` • `MongoDb` • `mongoose` • `Redis` 
+* Restaurant <a href="https://github.com/abduhamidweb/restaurant"> LINK <a/>  I worked on the project  `JavaScript` • `Node Js` • `TypeScript` •  `ExpressJs` • `MongoDb` • `mongoose` • `Redis` 
 
 #### Frontend Projects :
 
-* English app  <a href="https://gilded-smakager-d9f418.netlify.app/index.html">LINK<a/> [ I worked on the project `JavaScript`]
-* English dictionary <a href="https://github.com/abduhamidweb/Essential-Frontend">LINK<a/> [ I worked on the project `JavaScript`]
-* Sapid <a href="https://github.com/abduhamidweb/Sapid-Frontend"> LINK <a/> [ I worked on the project `JavaScript`]
+* English app  <a href="https://gilded-smakager-d9f418.netlify.app/index.html">LINK<a/> I worked on the project `ReactJs` • `SASS` • `Bootstrap` • `MDB` • `Router dome`
+* English dictionary <a href="https://github.com/abduhamidweb/Essential-Frontend">LINK<a/>  I worked on the project `ReactJs` • `SASS` • `Bootstrap` • `MDB` • `Router dome`
+* Sapid <a href="https://github.com/abduhamidweb/Sapid-Frontend"> LINK <a/> I worked on the project `ReactJs` • `SASS` • `Bootstrap` • `MDB` • `Router dome`
 
 ---
 
