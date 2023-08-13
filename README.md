@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full-Stack developer from Uzbekistan</h3> 
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> 
-- 🔭 I’m currently working on <a href="https://github.com/abduhamidweb/startup">StartUp real app</a>
+- 🔭 I’m currently working on <a href="https://github.com/abduhamidweb/job.git">Job apply</a>
 
 - 🌱 I’m currently learning **nextJs**
 
